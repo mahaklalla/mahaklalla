@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahaklalla
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently working on AWS, Python and Power BI
+- 🌱 I’m currently working on Azure, Python and Power BI
 - 💞️ I’m looking to collaborate on any Data Science project
 - 📫 How to reach me mahaklalla@gmail.com
 
